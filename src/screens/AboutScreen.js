@@ -33,20 +33,14 @@ const AboutScreen = {
               <tr class="release">
                 <th rowspan="2">Réalisé par</th>
                 <td>khalil</td>
-                <td>Ammar</td>
-                <td>Abir</td>
                 <td colspan="4" rowspan="4">2022/2023</td>
               </tr>
               <tr class="sub-release">
                 <td>TRABELSI</td>
-                <td>ALI</td>
-                <td>FARS</td>
               </tr>
               <tr class="formation">
                 <th rowspan="4">Formation</th>
                 <td rowspan="">Informatique</td>
-                <td rowspan="">Math</td>
-                <td rowspan="">Biologie</td>
               </tr>
             </tbody>
             <tfoot>
