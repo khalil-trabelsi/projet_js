@@ -16,7 +16,7 @@ export const transformDate = (datep) => {
 
     const date = new Date(datep);
     return {
-        fulldate: month[date.getMonth()].slice(0, 3) + " " + date.getDate() + ", " + date.getFullYear(),
+        fulldate: month[date.getMonth()]+ " " + date.getDate() + ", " + date.getFullYear(),
         year: date.getFullYear()
     }
 }
